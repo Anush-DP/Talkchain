@@ -1,2 +1,2 @@
 language = "java10"
-run = "cd src && javac Block.java Blockchain.java Main.java SerializationUtils.java StringUtil.java && java Main"
+run = "cd src && javac *.java && java Main"
